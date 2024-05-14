@@ -1,0 +1,1 @@
+# This repo consist of a Apple Website Clone using HTML and CSS.
